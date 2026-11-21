@@ -1,0 +1,26 @@
+{
+  "name": "VSTEP LexiCore — Luyện Thi VSTEP A1–B2 Chuẩn MOET",
+  "short_name": "VSTEP LexiCore",
+  "description": "Hệ thống học 3.000 từ vựng SM-2, Ngữ pháp & 4 Kỹ năng Đọc - Nghe - Viết - Nói chuẩn MOET đồng bộ 24/7.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5",
+  "lang": "vi",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
